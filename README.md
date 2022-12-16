@@ -5,7 +5,7 @@ Instalação
 Backend/API
 Clone este repositório e instale as dependências dentro da pasta aircnc/backend
 
-git clone https://github.com/robertomendoncaa/aircnc.git
+
 cd aircnc/backend
 yarn
 # ou
